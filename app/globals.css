@@ -1,30 +1,109 @@
-.box{
+.color-box{
     border:solid black 2px;
-    height:800px;
-    width:800px;
+    height:300px;
+    width:700px;
     margin: auto;
+}
+
+.count-box{
+    border:solid green 2px;
+    height:200px;
+    width:700px;
+    margin: auto;
+    margin-top:20px;
+}
+
+.Red_count{
+    border:solid black 2px;
+    height:96px;
+    width:347px;
+    float:Right;
+}
+.Yellow_count{
+    border:solid black 2px;
+    height:96px;
+    width:347px;
+    
+}
+
+.Pink_count{
+    border:solid black 2px;
+    height:96px;
+    width:346px;
+    float:right;
+}
+
+.Brown_count{
+    border:solid black 2px;
+    height:96px;
+    width:346px;
+
+}
+
+.area-box{
+    border:solid green 2px;
+    height:500px;
+    width:700px;
+    margin: auto;
+    margin-top:20px;
+    
+}
+
+.red_button{
+    border:solid red 2px;
+    height:245px;
+    width:346px;
+    float:left;
+    
+}
+
+.pink_button{
+    border:solid black 2px;
+    height:245px;
+    width:346px;
+    float:left;
+    
+}
+
+.yellow_button{
+    border:solid blue 2px;
+    height:245px;
+    width:346px;
+    float:left;
+}
+
+.brown_button{
+    border:solid red 2px;
+    height:245px;
+    width:346px;
+    float:left;
        
 }
 
-.color-chenge{
-    border:solid black 2px;
-    height:350px;
-    width:350px;
-    margin:auto;
+.red{
+    width:100px;
+    height:50px;
+    background-color:red;
+    margin-left:130px;
 }
 
-.color-box{
-    border:solid black 2px;
+.pink{
+    width:100px;
     height:50px;
-    width:50px;
-    margin:auto;
-    margin-right:100px;
+    background-color:pink;
+    margin-left:130px;
 }
 
-.color-box2{
-    border:solid black 2px;
+.yellow{
+    width:100px;
     height:50px;
-    width:50px;
-    margin:auto;
-    margin-left:100px;
+    background-color:yellow;
+    margin-left:130px;
+}
+
+.brown{
+    width:100px;
+    height:50px;
+    background-color:brown;
+    margin-left:130px;
 }
